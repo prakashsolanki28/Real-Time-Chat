@@ -91,6 +91,3 @@ asynchronous and real-time communication. Here are the primary objectives:
 - Cross-Platform Compatibility:
   - The application works seamlessly across devices and browsers.
 
-```
-
-```
