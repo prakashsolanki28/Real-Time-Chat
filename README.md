@@ -2,6 +2,34 @@
 
 A real-time chat web application built with the MERN stack (MongoDB, Express.js, React, Node.js) can serve various needs and purposes in today's digital landscape.
 
+#### How To Use
+
+From your command line, clone and run Project :
+
+```
+
+# Start Frontend
+cd frontend-Reactjs
+
+# Install dependencies
+npm install
+
+# Start a local dev server
+npm start
+
+# Same as for Backend
+
+# Start Frontend
+cd frontend-Reactjs
+
+# Install dependencies
+npm install
+
+# Start a local dev server
+npm start
+
+```
+
 ### Images
 
 #### Home Page
@@ -62,3 +90,7 @@ asynchronous and real-time communication. Here are the primary objectives:
   - Users can create and join group chats.
 - Cross-Platform Compatibility:
   - The application works seamlessly across devices and browsers.
+
+```
+
+```
